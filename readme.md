@@ -11,7 +11,7 @@ Este proyecto es el backend de una aplicación de gestión de tareas llamada "Ta
 
 1. Clona el repositorio:
    ```sh
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/kaikrmen/tasks-backend-app
    cd task-manager-backend
    ```
 
